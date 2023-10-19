@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlEncoder.Api", "SimpleAPI_URLEncoder\UrlEncoder.Api.csproj", "{7ABB953E-AFF7-4248-8D5C-03AEF8A2DA43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlEncoder.Tests", "UrlEncoder.Tests\UrlEncoder.Tests.csproj", "{F693982A-1E8D-4995-89E8-5AC2403BA8F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ABB953E-AFF7-4248-8D5C-03AEF8A2DA43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABB953E-AFF7-4248-8D5C-03AEF8A2DA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABB953E-AFF7-4248-8D5C-03AEF8A2DA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABB953E-AFF7-4248-8D5C-03AEF8A2DA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F693982A-1E8D-4995-89E8-5AC2403BA8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F693982A-1E8D-4995-89E8-5AC2403BA8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F693982A-1E8D-4995-89E8-5AC2403BA8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F693982A-1E8D-4995-89E8-5AC2403BA8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6D51B2-EE03-4606-963A-C67CB2ECFB64}
+	EndGlobalSection
+EndGlobal
